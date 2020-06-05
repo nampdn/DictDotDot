@@ -1,0 +1,10 @@
+name = "DictDotDot"
+uuid = "5cbb5ea9-1c69-4457-8305-4f15e70bf087"
+authors = ["nampdn <nampdn@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "0.7, 1.0"
