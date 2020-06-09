@@ -1,4 +1,5 @@
 module DictDotDot
+export dotset!
 get_path_segments(path::String) = split(path, ".")
 
 function dotset!(root::AbstractDict, dottedkeys::String, value)
